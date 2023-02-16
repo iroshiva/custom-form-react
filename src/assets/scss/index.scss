@@ -1,0 +1,14 @@
+
+@import "./abstracts/buttons.scss";
+@import "./templates/module.scss";
+@import "./templates/section.scss";
+@import "./templates/question.scss";
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  margin-top: 0;
+}

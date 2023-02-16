@@ -1,0 +1,16 @@
+.questionContainer {
+  padding: 50px;
+
+  display: flex;
+  flex-direction: column;
+  // flex-grow: 1;
+  // justify-content: center;
+
+  // &:not(:last-child) {
+    border-bottom: 2px solid gray;
+  // }
+
+  &__label {
+    margin-bottom: 10px;
+  }
+}

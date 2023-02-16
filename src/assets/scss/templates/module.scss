@@ -1,0 +1,13 @@
+.moduleContainer {
+  display: flex;
+  border: 2px solid gray;
+  
+
+  width: 80%;
+  margin: 0 auto;
+
+  &__left {
+    padding: 50px;
+    border-right: 2px solid gray;
+  }
+}
